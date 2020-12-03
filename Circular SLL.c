@@ -1,4 +1,3 @@
-//week 3 lab program -  C program to imolplement CSLL operations 
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
